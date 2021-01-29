@@ -59,9 +59,13 @@ The commands are formed by a string of parameters, where:
 
 #### Warning
 To add parameters to the function, you must use arguments[array_index]
+
 For a function without parameters, use only name()
+
 For a function with a parameter, use name(arguments[0])
+
 For a function with two parameters, use name(arguments[0], arguments[1])
+
 And so on...
 
 ## License
